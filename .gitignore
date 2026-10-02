@@ -1,0 +1,23 @@
+# Environment variables
+.env
+.env.*
+
+# Keep environment examples
+!.env.example
+
+# Go binaries
+bin/
+*.exe
+*.test
+
+# Node
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
